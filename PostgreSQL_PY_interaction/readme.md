@@ -3,7 +3,7 @@
 **The Relational Database Schema**
 
 
-![FlowChart](./imgs/FlowChart.png)
+![FlowChart](imgs/Flowchart.png)
 
 
 <h2>General task:</h2>
